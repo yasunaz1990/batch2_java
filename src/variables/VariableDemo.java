@@ -1,3 +1,4 @@
+package variables;
 
 // Class: method container
 // groups related methods
@@ -13,16 +14,12 @@ public class VariableDemo {
         // - String                  "Full Name"
         // - Logic ( boolean )       true, false
 
-
-
-
         // 2. Variable
         int favoriteNumber = 777;
         boolean isSnowing = false;
         char myMathClassGrade = 'A';
         String reply = "I am fine";
         double PI = 3.14;
-
 
         // Print all of these out
         System.out.print(favoriteNumber);
@@ -36,12 +33,10 @@ public class VariableDemo {
         System.out.print("\n");
         System.out.print(reply);
 
-
         // Variable naming
         //------------------------------
         // 1. describe that data
         // 2. camelCaseNotation
         // 3. snake_naming_notation
-
     }
 }
