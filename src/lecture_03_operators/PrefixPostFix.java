@@ -1,6 +1,4 @@
-package operators;
-
-import javax.crypto.spec.PSource;
+package lecture_03_operators;
 
 public class PrefixPostFix {
 

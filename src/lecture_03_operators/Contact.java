@@ -1,6 +1,4 @@
-package operators;
-
-import java.util.Locale;
+package lecture_03_operators;
 
 public class Contact {
 

@@ -1,4 +1,4 @@
-package primitivedata;
+package lecture_02_primitive_datatype;
 
 public class PrimitiveDataIntro {
 

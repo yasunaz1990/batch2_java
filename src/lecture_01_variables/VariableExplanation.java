@@ -1,6 +1,4 @@
-package variables;
-
-import java.util.Locale;
+package lecture_01_variables;
 
 public class VariableExplanation {
 

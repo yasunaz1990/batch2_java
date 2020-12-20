@@ -1,4 +1,4 @@
-package operators;
+package lecture_03_operators;
 
 public class PostPrefixProblems {
 

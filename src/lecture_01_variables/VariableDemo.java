@@ -1,4 +1,4 @@
-package variables;
+package lecture_01_variables;
 
 // Class: method container
 // groups related methods

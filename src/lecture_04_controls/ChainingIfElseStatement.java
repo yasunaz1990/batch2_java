@@ -1,8 +1,8 @@
-package decisions;
+package lecture_04_controls;
 
 import java.util.Scanner;
 
-public class IfStatement {
+public class ChainingIfElseStatement {
 
     public static void main(String[] args) {
         // [18 ~ 60]

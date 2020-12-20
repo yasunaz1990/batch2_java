@@ -1,4 +1,4 @@
-package variables;
+package lecture_01_variables;
 
 public class VariableQuiz {
 

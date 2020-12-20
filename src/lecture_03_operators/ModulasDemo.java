@@ -1,7 +1,6 @@
-package operators;
+package lecture_03_operators;
 
 import java.io.IOException;
-import java.util.Date;
 
 public class ModulasDemo {
 
